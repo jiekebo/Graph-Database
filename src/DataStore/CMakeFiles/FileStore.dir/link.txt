@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFileStore.a  CMakeFiles/FileStore.dir/filestore.cpp.o
+/usr/bin/ranlib libFileStore.a

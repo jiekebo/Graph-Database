@@ -1,0 +1,1 @@
+ADD_LIBRARY(Graph Graph Properties)

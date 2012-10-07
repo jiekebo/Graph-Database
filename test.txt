@@ -1,0 +1,4 @@
+<graph>
+	<node key='51E07E8D-E94C-4C5B-9BF6-7C589DAF01C6' value='Test'>
+	</node>
+</graph>

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Graph.cpp
+Graph.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Graph.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Graph.h
+string
+-
+list
+-
+map
+-
+iostream
+-
+fstream
+-
+uuid/uuid.h
+-
+Properties.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.cpp
+Properties.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.h
+

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libPrim.a  CMakeFiles/Prim.dir/Prim.cpp.o
+/usr/bin/ranlib libPrim.a

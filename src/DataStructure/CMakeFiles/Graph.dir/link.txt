@@ -1,0 +1,2 @@
+/usr/bin/ar cr libGraph.a  CMakeFiles/Graph.dir/Graph.cpp.o CMakeFiles/Graph.dir/Properties.cpp.o
+/usr/bin/ranlib libGraph.a

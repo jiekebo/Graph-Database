@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Graph.h
+string
+-
+list
+-
+map
+-
+iostream
+-
+fstream
+-
+uuid/uuid.h
+-
+Properties.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Properties.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/GraphAlgorithms/../DataStructure/Graph.h
+string
+-
+list
+-
+map
+-
+iostream
+-
+fstream
+-
+uuid/uuid.h
+-
+Properties.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/GraphAlgorithms/../DataStructure/Properties.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/GraphAlgorithms/Prim.h
+queue
+-
+limits
+-
+../DataStructure/Graph.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/GraphAlgorithms/../DataStructure/Graph.h
+
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/main.cpp
+iostream
+-
+sstream
+-
+DataStructure/Graph.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/DataStructure/Graph.h
+GraphAlgorithms/Prim.h
+/Users/jiekebo/Dropbox/Eclipse Workspaces/cworkspace/GraphDatabaseCMake/src/GraphAlgorithms/Prim.h
+uuid/uuid.h
+-
+
